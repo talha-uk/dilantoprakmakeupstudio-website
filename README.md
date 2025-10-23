@@ -33,3 +33,14 @@ All rights belong to the client.
 
 📅 **Project period:** Apr 2022  
 🔄 **Status:** Completed — no longer actively maintained.
+
+
+
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="./screenshot2.png" width="80%"/>
+  <img src="./screenshot0.png" width="80%"/>
+  <img src="./screenshot1.png" width="80%"/>
+</p>
