@@ -26,7 +26,7 @@ After project completion, the website was handed over to the client.
 
 ## 👤 Developer
 
-Developed by **[Talha](https://github.com/talha-uk)**  
+This project was designed and developed by **[Talha](https://github.com/talha-uk)**  
 All rights belong to the client.
 
 ---
