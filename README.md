@@ -31,7 +31,7 @@ All rights belong to the client.
 
 ---
 
-📅 **Project period:** Apr 2022  
+📅 **Project period:** Apr 2025
 🔄 **Status:** Completed — no longer actively maintained.
 
 
