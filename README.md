@@ -32,7 +32,7 @@ All rights belong to the client.
 ---
 
 📅 **Project period:** Apr 2025    
-🔄 **Status:** Completed — no longer actively maintained.
+🔄 **Status:** Completed — I still have project responsibility.
 
 
 
